@@ -1,0 +1,3 @@
+- Software Engineer
+- Comsats university Islamabad 
+- I’m currently working on flutter
